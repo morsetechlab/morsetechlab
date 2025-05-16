@@ -27,7 +27,3 @@ You can reach me at:
 
 [![Computer Vision Developer](https://img.shields.io/badge/Computer%20Vision%20Developer-ffffff?style=for-the-badge&logo=opencv&logoColor=%237529f4&color=7529f4&labelColor=ffffff&messageColor=7529f4)](https://www.morsetechlab.com)
 [![Consultant](https://img.shields.io/badge/Consultant-000000?style=for-the-badge&logoColor=white&labelColor=000000)](https://www.morsetechlab.com)
-
-<div align="center">
-  <img src="og-morsetech.png" alt="MorseTechLab Banner" style="max-width: 100%; height: auto;" />
-</div>
