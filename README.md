@@ -1,6 +1,4 @@
-# 🖐 Hi, I’m Morse 
-
-![Profile views](https://komarev.com/ghpvc/?username=morsetechlab&label=Profile%20views&color=blueviolet&style=flat) 
+# 🖐 Hi, I’m Morse ![Profile views](https://komarev.com/ghpvc/?username=morsetechlab&label=Profile%20views&color=blueviolet&style=flat) 
 
 I’m deeply passionate about **Computer Vision** — from classical **Machine Learning** and **Stereo Vision** to modern **Deep Learning** and **Vision Transformers**.  
 Currently on a lifelong journey of learning and building real-world AI systems.
@@ -12,23 +10,13 @@ My interest in CV started during my Master's thesis, where I explored:
 
 This project introduced me to **Stereo Vision**, **Cross-Correlation**, and **Linear Regression**, which became the foundation of my AI journey.
 
----
+--- 
 
-## What I'm working on
-- Real-time projects in **Face Recognition**, **ALPR**, and **Object Detection** for practical applications
-- Deploying AI models to both edge devices (Jetson Nano, Raspberry Pi) and scalable cloud backends
+You can reach me at:
 
-## Tech Stack
-`Python` | `FastAPI` | `Next.js` | `Supabase`  
-`OpenCV` | `YOLO` | `PaddleOCR` | `PyTorch` | `ONNX`
+[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.morsetechlab.com)
 
-## Always learning
-I'm currently diving deeper into:
-- **Vision Transformers**
-- **Model Optimization for Edge Deployment**
-- **Multi-modal Learning**
+Follow my work on:
 
----
-
-You can reach me at: [www.morsetechlab.com](https://www.morsetechlab.com)  
-🌐 Or follow my projects here on GitHub and on 🤗 [Hugging Face](https://huggingface.co/morsetechlab)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/morsetechlab)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/morsetechlab)
