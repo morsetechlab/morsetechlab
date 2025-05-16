@@ -1,4 +1,6 @@
-# 🖐 Hi, I’m Morse ![Profile views](https://komarev.com/ghpvc/?username=morsetechlab&label=Profile%20views&color=blueviolet&style=flat) 
+# 🖐 Hi, I’m Morse 
+
+![Profile views](https://komarev.com/ghpvc/?username=morsetechlab&label=Profile%20views&color=blueviolet&style=flat) 
 
 I’m deeply passionate about **Computer Vision** — from classical **Machine Learning** and **Stereo Vision** to modern **Deep Learning** and **Vision Transformers**.  
 Currently on a lifelong journey of learning and building real-world AI systems.
