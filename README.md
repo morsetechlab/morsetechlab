@@ -12,11 +12,6 @@ This project introduced me to **Stereo Vision**, **Cross-Correlation**, and **Li
 
 --- 
 
-You can reach me at:
-
-[![Computer Vision Developer](https://img.shields.io/badge/Computer%20Vision%20Developer-ffffff?style=for-the-badge&logo=opencv&logoColor=%237529f4&color=7529f4&labelColor=ffffff&messageColor=7529f4)](https://www.morsetechlab.com)
-[![Consultant](https://img.shields.io/badge/Consultant-000000?style=for-the-badge&logoColor=white&labelColor=000000)](https://www.morsetechlab.com)
-
 Follow my work on:
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/morsetechlab)
@@ -27,3 +22,12 @@ Socials:
 [![YouTube](https://img.shields.io/badge/YouTube_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MorseTechLab)
 [![X](https://img.shields.io/badge/X_Profile-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/morsetechlab)
 [![Facebook](https://img.shields.io/badge/Facebook_Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/morsetechlab)
+
+You can reach me at:
+
+[![Computer Vision Developer](https://img.shields.io/badge/Computer%20Vision%20Developer-ffffff?style=for-the-badge&logo=opencv&logoColor=%237529f4&color=7529f4&labelColor=ffffff&messageColor=7529f4)](https://www.morsetechlab.com)
+[![Consultant](https://img.shields.io/badge/Consultant-000000?style=for-the-badge&logoColor=white&labelColor=000000)](https://www.morsetechlab.com)
+
+<div align="center">
+  <img src="og-morsetech.png" alt="MorseTechLab Banner" style="max-width: 100%; height: auto;" />
+</div>
