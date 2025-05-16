@@ -1,4 +1,4 @@
-# Hi, I’m Morse
+# 🖐 Hi, I’m Morse
 
 I’m deeply passionate about **Computer Vision** — from classical **Machine Learning** and **Stereo Vision** to modern **Deep Learning** and **Vision Transformers**.  
 Currently on a lifelong journey of learning and building real-world AI systems.
@@ -29,4 +29,4 @@ I'm currently diving deeper into:
 ---
 
 You can reach me at: [www.morsetechlab.com](https://www.morsetechlab.com)  
-🌐 Or follow my projects here on GitHub and on [Hugging Face](https://huggingface.co/morsetechlab)
+🌐 Or follow my projects here on GitHub and on 🤗 [Hugging Face](https://huggingface.co/morsetechlab)
