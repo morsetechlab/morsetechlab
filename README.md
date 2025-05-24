@@ -12,18 +12,17 @@ This project introduced me to **Stereo Vision**, **Cross-Correlation**, and **Li
 
 --- 
 
-Follow my work on:
+## Follow my work on
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/morsetechlab)
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/morsetechlab)
+[![GitHub](https://img.shields.io/github/followers/morsetechlab?label=GitHub&style=social)](https://github.com/morsetechlab)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-%40morsetechlab-orange?logo=huggingface&style=social)](https://huggingface.co/morsetechlab)
 
-Socials:
+## Socials
 
-[![YouTube](https://img.shields.io/badge/YouTube_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MorseTechLab)
-[![X](https://img.shields.io/badge/X_Profile-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/morsetechlab)
-[![Facebook](https://img.shields.io/badge/Facebook_Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/morsetechlab)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCfFQ7iDTV63BRuzlSH_YCXQ?style=social)](https://www.youtube.com/@MorseTechLab)
+[![X](https://img.shields.io/badge/follow-%40morsetechlab-1DA1F2?style=social&logo=x)](https://x.com/morsetechlab)
+[![Facebook](https://img.shields.io/badge/Facebook-morsetechlab-1877F2?style=social&logo=facebook)](https://facebook.com/morsetechlab)
 
-You can reach me at:
+## You can reach me at
 
-[![Computer Vision Developer](https://img.shields.io/badge/Computer%20Vision%20Developer-ffffff?style=for-the-badge&logo=opencv&logoColor=%237529f4&color=7529f4&labelColor=ffffff&messageColor=7529f4)](https://www.morsetechlab.com)
-[![Consultant](https://img.shields.io/badge/Consultant-000000?style=for-the-badge&logoColor=white&labelColor=000000)](https://www.morsetechlab.com)
+[![Portfolio](https://img.shields.io/badge/MorseTechLab.com-Visit-blue?style=social&logo=google-chrome)](https://www.morsetechlab.com)
